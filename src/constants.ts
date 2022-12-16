@@ -16,5 +16,4 @@ export const VALUES: GotValue[] = [
   {value: '0'},
   {value: '.'},
   {value: '-'},
-  {value: '='},
 ]
